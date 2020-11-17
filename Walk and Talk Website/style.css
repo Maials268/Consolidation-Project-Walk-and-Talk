@@ -1,12 +1,12 @@
 .header {
   padding: 8em 0;
   background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/604B48B6-80D9-413D-9663-8CF35CE837D8/Untitled%20design.jpeg');
-  background-size: cover;
+  background-size: 1450px 300px;;
   background-repeat: no-repeat;
   text-align: center; /* center the text */
   color: white; /* white text color */
   }
-}
+
 
 /* Increase the font size of the <h1> element */
 .header h1 {
