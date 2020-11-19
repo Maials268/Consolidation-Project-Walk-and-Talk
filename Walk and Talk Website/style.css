@@ -1,7 +1,7 @@
 .header {
   padding: 8em 0;
-  background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/604B48B6-80D9-413D-9663-8CF35CE837D8/Untitled%20design.jpeg');
-  background-size: 1450px 300px;
+  background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/1.png');
+  background-size: 1450px 280px;
   background-repeat: no-repeat;
   display:block;
     width:100%;
@@ -9,12 +9,65 @@
   text-align: center; /* center the text */
   color: white; /* white text color */
   }
+  .AboutUsheader {
+    padding: 8em 0;
+    background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/2.png');
+    background-size: 1450px 280px;
+    background-repeat: no-repeat;
+    display:block;
+      width:100%;
+      height:auto;
+    text-align: center; /* center the text */
+    color: white; /* white text color */
+    }
+    .Episode1header {
+      padding: 8em 0;
+      background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/3.png');
+      background-size: 1450px 280px;
+      background-repeat: no-repeat;
+      display:block;
+        width:100%;
+        height:auto;
+      text-align: center; /* center the text */
+      color: white; /* white text color */
+      }
+      .Episode2header {
+        padding: 8em 0;
+        background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/4.png');
+        background-size: 1450px 280px;
+        background-repeat: no-repeat;
+        display:block;
+          width:100%;
+          height:auto;
+        text-align: center; /* center the text */
+        color: white; /* white text color */
+        }
+        .Episode3header {
+          padding: 8em 0;
+          background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/5.png');
+          background-size: 1450px 280px;
+          background-repeat: no-repeat;
+          display:block;
+            width:100%;
+            height:auto;
+          text-align: center; /* center the text */
+          color: white; /* white text color */
+          }
+
+          .ContactUsheader {
+            padding: 8em 0;
+            background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/6.png');
+            background-size: 1450px 280px;
+            background-repeat: no-repeat;
+            display:block;
+              width:100%;
+              height:auto;
+            text-align: center; /* center the text */
+            color: white; /* white text color */
+            }
 
 
-/* Increase the font size of the <h1> element */
-.header h1 {
-  font-size: 40px;
-}
+
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden; /* Hide overflow */
