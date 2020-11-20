@@ -1,4 +1,4 @@
-.header {
+  .header {
   padding: 8em 0;
   background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/1.png');
   background-size: 1450px 280px;
@@ -9,7 +9,7 @@
   text-align: center; /* center the text */
   color: white; /* white text color */
   }
-  .AboutUsheader {
+    .AboutUsheader {
     padding: 8em 0;
     background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/2.png');
     background-size: 1450px 280px;
@@ -20,7 +20,7 @@
     text-align: center; /* center the text */
     color: white; /* white text color */
     }
-  .Episode1header {
+    .Episode1header {
       padding: 8em 0;
       background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/3.png');
       background-size: 1450px 280px;
@@ -54,7 +54,7 @@
           color: white; /* white text color */
           }
 
-        .ContactUsheader {
+      .ContactUsheader {
             padding: 8em 0;
             background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/6.png');
             background-size: 1450px 280px;
