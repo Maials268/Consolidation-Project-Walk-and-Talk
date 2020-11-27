@@ -1,6 +1,6 @@
   .header {
   padding: 8em 0;
-  background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/1.png');
+  background-image: url('Assets/graphics/homepage.png');
   background-size: 1450px 280px;
   background-repeat: no-repeat;
   display:block;
@@ -11,7 +11,7 @@
   }
     .AboutUsheader {
     padding: 8em 0;
-    background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/2.png');
+    background-image: url('Assets/graphics/about_us.png');
     background-size: 1450px 280px;
     background-repeat: no-repeat;
     display:block;
@@ -22,7 +22,7 @@
     }
     .Episode1header {
       padding: 8em 0;
-      background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/3.png');
+      background-image: url('Assets/graphics/ep1_header.png');
       background-size: 1450px 280px;
       background-repeat: no-repeat;
       display:block;
@@ -33,7 +33,7 @@
       }
     .Episode2header {
         padding: 8em 0;
-        background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/4.png');
+        background-image: url('Assets/graphics/ep2_header.png');
         background-size: 1450px 280px;
         background-repeat: no-repeat;
         display:block;
@@ -44,7 +44,7 @@
         }
       .Episode3header {
           padding: 8em 0;
-          background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/5.png');
+          background-image: url('Assets/graphics/ep3_header.png');
           background-size: 1450px 280px;
           background-repeat: no-repeat;
           display:block;
@@ -56,7 +56,7 @@
 
       .ContactUsheader {
             padding: 8em 0;
-            background-image: url('file:///Users/maiastephenson/Library/Messages/Attachments/00/00/99448666-04A2-49B9-A60A-12AF9A93ABF4/Headers/6.png');
+            background-image: url('Assets/graphics/contact_us.png');
             background-size: 1450px 280px;
             background-repeat: no-repeat;
             display:block;
